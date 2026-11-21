@@ -1,0 +1,120 @@
+body {
+  background-color: #FEFAEC;
+}
+
+.header {
+  color: #344D0F;
+  text-align: center; 
+  font-family: Cinzel, serif;
+  font-size: 50px;
+  width: 80%;
+  margin: 0 auto 5px auto;
+  padding: 5px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: Cinzel, serif; 
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 30px;
+  background-color:#344D0F;
+  justify-content: center;
+  margin-top: 0;
+  padding:5px;
+  width: auto;
+}
+
+.main-content{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content {
+  background-color: #D5E6C1;
+  border-style: solid;
+  border-color: #344D0F;
+  border-radius: 30px;
+  padding: 50px;
+  text-align: justify;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photo img { 
+    display: block;
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+	margin-top: 0 auto;
+}
+.footer {
+  background-color: #D5E6C1;
+  width: 300px;
+  border-style: solid;
+  border-color: #344D0F;
+  border-radius: 30px;
+  padding: 50px;
+  text-align: center;
+  margin: 20px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: Cinzel, serif; 
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 30px;
+  background-color:#344D0F;
+  justify-content: center;
+  width: auto;
+}
+
+
+h3 {
+  color: white;
+  text-align: center;
+  font-family: Cinzel, serif; 
+  font-size: 15px;
+  border-style: solid; 
+  border-radius: 30px;
+  background-color:#344D0F;
+  width: 300px;
+}
+
+
+i {
+  color: #513B1C;
+  text-align: center;
+  font-family: Cinzel, serif;
+  font-size: 30px 
+}
+
+li{
+  color:#513B1C;
+  font-family: Cinzel, serif;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  background-color:#D5E6C1;
+  width: 300px;
+  text-align: left;
+}
+ 
+p {
+  color:#513B1C;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 20px;  
+  text-align: justify;
+}
+
